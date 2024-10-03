@@ -5,5 +5,21 @@ body{
     width: 100%;
     display: flex;
     justify-content: center;
-    background-color: #ccc;
+    background-color: #eebdeb;
+}
+.app {
+    background-color: rgb(230, 106, 203);
+    padding: 16px;
+    border-radius: 11px;
+}
+input {
+    margin: 8px 0;
+    padding: 8px;
+    outline: none;
+}
+#btn-calcular{
+   background-color:rgb(240, 169, 250);
+   color: #000000;
+   padding: 8px;
+   border-radius: 4px;
 }
